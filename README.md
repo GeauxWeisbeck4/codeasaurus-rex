@@ -1,41 +1,19 @@
-# Website
+# Codeasaurus Rex
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Dammit! You are stuck once again on a LeetCode problem and just don't know what to do... when all of the sudden you hear something... a **THUMP**.... **THUMP**...
 
-## Installation
+<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/95b43ca1-83bf-4596-9428-e0881f9ce2db" />
 
-```bash
-yarn
-```
+What could it be? You get up and look out the window and see a... OH MY GOD!!!! A TREX!!! AHHHH!!! 
 
-## Local Development
+<img width="220" height="182" alt="image" src="https://github.com/user-attachments/assets/32b98d26-0131-4649-bb07-c36b8870c379" />
 
-```bash
-yarn start
-```
+No, not that TRex, it's Codeasaurus Rex! 
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+<img width="220" height="221" alt="image" src="https://github.com/user-attachments/assets/cc5602da-9b48-4545-bbb2-923d7a67d215" />
 
-## Build
+Codeasaurus Rex is here to help you solve all your computer science, system design, and other programming problems!
 
-```bash
-yarn build
-```
+## Ok, that was stupid. What the hell?
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Ok, ok - I know. But I thought it was funny. Codeasaurus Rex is a programming website created with Docusaurus that is meant to help you solve LeetCode Problems, learn system design, and even how to build some shit. It is a work in progress, but keep checking in to learn more!
